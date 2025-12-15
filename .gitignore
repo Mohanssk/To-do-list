@@ -55,3 +55,7 @@ Thumbs.db
 coverage/
 /.pnp
 /.pnp.js
+
+
+
+./queries.sql
